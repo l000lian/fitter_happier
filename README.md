@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Add yolo_bbox2segment docs reference (#7751)
