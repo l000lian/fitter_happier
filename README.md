@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
