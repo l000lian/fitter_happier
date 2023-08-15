@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
