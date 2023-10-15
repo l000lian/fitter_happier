@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Cleanup Docs languages (#7865)
