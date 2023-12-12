@@ -1,1 +1,1 @@
-ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
+Fix device counting method to account for double-digit device IDs (#8502)
