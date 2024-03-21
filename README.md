@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
