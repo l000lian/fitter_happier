@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+OBB: Fix when training on zip data (#8680)
